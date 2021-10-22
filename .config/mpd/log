@@ -1,0 +1,83 @@
+Oct 16 12:59 : exception: Failed to open '/home/toomuchham/.config/mpd/state': No such file or directory
+Oct 16 12:59 : update: added /hikaru nara.mp3
+Oct 16 13:00 : exception: Failed to open '/home/toomuchham/.config/mpd/state': No such file or directory
+Oct 16 13:00 : exception: Failed to open '/home/toomuchham/.config/mpd/state': No such file or directory
+Oct 16 13:01 : exception: Failed to open '/home/toomuchham/.config/mpd/state': No such file or directory
+Oct 16 13:02 : exception: Failed to commit /home/toomuchham/.config/mpd/state: File exists
+Oct 16 13:02 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:07 : update: added /hikaru nara.wav
+Oct 16 13:07 : update: added /hikaru nara.wav
+Oct 16 13:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:09 : update: removing hikaru nara.mp3
+Oct 16 13:09 : update: removing hikaru nara.mp3
+Oct 16 13:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:14 : player: played "hikaru nara.wav"
+Oct 16 13:19 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:23 : player: played "hikaru nara.wav"
+Oct 16 13:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:37 : player: played "hikaru nara.wav"
+Oct 16 13:40 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:44 : player: played "hikaru nara.wav"
+Oct 16 13:45 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:45 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:49 : player: played "hikaru nara.wav"
+Oct 16 13:49 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:54 : player: played "hikaru nara.wav"
+Oct 16 13:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Oct 16 13:57 : player: played "hikaru nara.wav"
+Oct 16 14:04 : player: played "hikaru nara.wav"
+Oct 16 15:09 : player: played "hikaru nara.wav"
+Oct 16 19:49 : player: played "hikaru nara.wav"
+Oct 16 19:53 : update: added /hikaru nara.mp3
+Oct 16 19:53 : update: removing hikaru nara.wav
+Oct 16 19:54 : player: played "hikaru nara.wav"
+Oct 16 19:58 : player: played "hikaru nara.mp3"
+Oct 16 20:06 : exception: Failed to decode /home/toomuchham/music/hikaru nara.wav; Failed to open '/home/toomuchham/music/hikaru nara.wav': No such file or directory
+Oct 16 20:06 : player: played "hikaru nara.wav"
+Oct 16 20:06 : exception: Failed to decode /home/toomuchham/music/hikaru nara.wav; Failed to open '/home/toomuchham/music/hikaru nara.wav': No such file or directory
+Oct 16 20:11 : update: added /good morning world - burnout syndromes.mp3
+Oct 16 20:33 : player: played "good morning world - burnout syndromes.mp3"
+Oct 16 21:47 : player: played "good morning world - burnout syndromes.mp3"
+Oct 16 21:47 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 16 21:49 : player: played "good morning world - burnout syndromes.mp3"
+Oct 16 21:50 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 16 21:56 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 16 21:57 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 16 21:58 : player: played "good morning world - burnout syndromes.mp3"
+Oct 17 04:51 : player: played "good morning world - burnout syndromes.mp3"
+Oct 17 04:56 : player: played "hikaru nara.mp3"
+Oct 17 05:00 : player: played "good morning world - burnout syndromes.mp3"
+Oct 17 05:08 : player: played "hikaru nara.mp3"
+Oct 17 05:12 : player: played "good morning world - burnout syndromes.mp3"
+Oct 17 05:45 : player: played "hikaru nara.mp3"
+Oct 17 05:49 : player: played "good morning world - burnout syndromes.mp3"
+Oct 17 11:36 : player: played "hikaru nara.mp3"
+Oct 17 11:40 : player: played "good morning world - burnout syndromes.mp3"
+Oct 17 12:23 : player: played "hikaru nara.mp3"
+Oct 17 12:27 : player: played "good morning world - burnout syndromes.mp3"
+Oct 18 13:09 : player: played "hikaru nara.mp3"
+Oct 18 13:13 : player: played "good morning world - burnout syndromes.mp3"
+Oct 18 13:22 : player: played "hikaru nara.mp3"
+Oct 18 13:26 : player: played "good morning world - burnout syndromes.mp3"
+Oct 18 14:00 : update: removing hikaru nara.mp3
+Oct 18 14:00 : update: removing good morning world - burnout syndromes.mp3
+Oct 18 14:26 : update: added /01 - COLORS.mp3
+Oct 18 14:26 : update: added /good morning world - burnout syndromes.mp3
+Oct 18 14:26 : update: added /hikaru nara.mp3
+Oct 18 14:30 : player: played "01 - COLORS.mp3"
+Oct 18 14:45 : player: played "01 - COLORS.mp3"
+Oct 18 15:04 : player: played "01 - COLORS.mp3"
+Oct 19 05:43 : player: played "01 - COLORS.mp3"
+Oct 19 06:36 : player: played "01 - COLORS.mp3"
+Oct 19 06:43 : player: played "01 - COLORS.mp3"
+Oct 19 06:47 : player: played "hikaru nara.mp3"
+Oct 19 11:47 : player: played "01 - COLORS.mp3"
+Oct 19 11:51 : player: played "hikaru nara.mp3"
+Oct 19 11:55 : player: played "good morning world - burnout syndromes.mp3"
+Oct 20 11:58 : update: added /01 - COLORS.mp3
+Oct 20 11:58 : update: added /good morning world - burnout syndromes.mp3
+Oct 20 11:58 : update: added /hikaru nara.mp3
+Oct 22 10:07 : player: played "hikaru nara.mp3"
+Oct 22 11:13 : player: played "hikaru nara.mp3"

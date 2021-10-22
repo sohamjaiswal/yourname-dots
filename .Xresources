@@ -1,0 +1,54 @@
+URxvt.font:     xft:Source Code Pro:size=7:antialias=true
+URxvt.boldFont: xft:Source Code Pro:black:size=7:antialias=true
+URxvt.scrollBar: false
+URxvt.cursorBlink: true
+
+*utf8: 1
+*faceSize: 10
+*jumpScroll: true
+*multiScroll: true
+*boldMode: false
+*scrollBar: false
+*cutNewline: false
+*scrollTtyOutput: false
+*scrollKey: true
+*cursorBlink: true
+*dynamicColors: true
+*saveLines: 5000
+*geometry: 125x45
+
+! URxvt
+
+URxvt*termName:                xterm
+URxvt*transparent:            false
+URxvt*tintColor:            #666666
+URxvt*shading:                50
+URxvt*scrollBar:            false
+URxvt*internalBorder:        5
+URxvt*urgentOnBell:         true
+URxvt*scrollTtyKeypress:    true
+URxvt*underlineColor:        yellow
+URxvt*perl-ext-common:        default,matcher
+URxvt*urlLauncher:            firefox
+URxvt*matcher.button:        1
+URxvt*matcher.pattern.1:    \\bwww\\.[\\w-]\\.[\\w./?&@#-]*[\\w/-]
+
+*background:  #0e111c
+*cursorColor:  #d5e1df
+*foreground:  #d5e1df
+*color0:  #303335
+*color1:  #836658
+*color2:  #4c626e
+*color3:  #748a96
+*color4:  #41506b
+*color5:  #607391
+*color6:  #475a78
+*color7:  #889bb9
+*color8:  #35413f
+*color9:  #c33f3c
+*color10:  #5689b4
+*color11:  #91a0bb
+*color12:  #5689b4
+*color13:  #4e67c0
+*color14:  #5689b4
+*color15:  #adb9b7
